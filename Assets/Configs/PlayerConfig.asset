@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 861e4b8700db3e84ea9c3f3c2ecc9c3b, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  <MoveSpeed>k__BackingField: 2
+  <StartSize>k__BackingField: 1
+  <DeadSize>k__BackingField: 0.3
+  <MinBulletSize>k__BackingField: 0.1
+  <ShotDistance>k__BackingField: 0.8
+  <ShotStepSize>k__BackingField: 0.5
+  <ReductionFactor>k__BackingField: 3
+  <BulletView>k__BackingField: {fileID: 3752294268252389714, guid: d183e1d8fbd1ff84c8e0d995e4fbcffd,
+    type: 3}
